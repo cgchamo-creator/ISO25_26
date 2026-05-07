@@ -14,5 +14,5 @@ Transformar un sistema operativo en un servidor de recursos para la red.
 *   Implementar cuotas de disco para controlar el almacenamiento.
 
 ### Hoja de Ruta para el Desarrollo
-1.  **Teoría**: Protocolos SMB/CIFS, NFS, permisos de compartido vs permisos de seguridad (NTFS).
-2.  **Tutorial**: Montaje de un servidor Samba híbrido accesible desde Windows y Linux.
+1.  **Teoría Técnica**: Protocolos SMB/CIFS y NFS, gestión de permisos (Share vs NTFS/POSIX), cuotas de disco y servicios de impresión.
+2.  **Laboratorios Prácticos**: Configuración de un servidor Samba híbrido y despliegue de almacenamiento NFS con límites de cuota.

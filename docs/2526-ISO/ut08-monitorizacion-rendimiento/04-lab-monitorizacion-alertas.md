@@ -21,7 +21,7 @@ Windows permite crear "Recopiladores de datos" que vigilan el sistema en segundo
 7.  Configura la alerta: **Alertar cuando sea superior a: 90**.
 8.  En la pestaña **Acción de alerta**, puedes configurar que se ejecute un script o se cree una entrada en el log de eventos.
 
-:::tip Aplicación Profesional
+:::tip[Aplicación Profesional]
 Puedes configurar que, si la CPU supera el 90%, se ejecute un script de PowerShell que reinicie un servicio específico o limpie archivos temporales.
 :::
 
@@ -72,7 +72,7 @@ Aunque las alertas son automáticas, a veces necesitas ver qué está pasando *a
     *   `F5`: Ver procesos en árbol (para ver qué proceso "padre" ha lanzado a los "hijos").
     *   `F9`: Matar (kill) un proceso que esté bloqueando el sistema.
 
-:::info ¿Por qué htop?
+:::info[¿Por qué htop?]
 A diferencia del `top` clásico, `htop` permite usar el ratón, tiene colores que indican el uso de caché/buffer y facilita enormemente la gestión de procesos sin tener que memorizar IDs.
 :::
 
