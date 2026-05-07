@@ -1,5 +1,5 @@
 ---
-title: Teoría: Planificación de la Instalación
+title: "Teoría: Planificación de la Instalación"
 sidebar_position: 1
 description: Criterios para seleccionar y preparar la instalación de sistemas operativos.
 ---

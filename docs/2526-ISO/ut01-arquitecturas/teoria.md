@@ -1,5 +1,5 @@
 ---
-title: Teoría: Fundamentos de Arquitectura
+title: "Teoría: Fundamentos de Arquitectura"
 sidebar_position: 1
 description: Conceptos básicos sobre el funcionamiento interno de los sistemas operativos, núcleos y servicios.
 ---
