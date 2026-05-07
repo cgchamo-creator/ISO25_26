@@ -1,0 +1,8 @@
+{
+  "label": "UT07. Recursos Compartidos",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Gestión de recursos compartidos en red y cuotas de disco."
+  }
+}
