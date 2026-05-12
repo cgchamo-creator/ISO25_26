@@ -20,16 +20,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://cgchamo-creator.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/ISO25_26/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'IES Agora', // Usually your GitHub org/user name.
-  projectName: 'Proy', // Usually your repo name.
-
+  projectName: 'ISO25_26', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // Rama oculta que creará Docusaurus para alojar la web
+  trailingSlash: false,
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
