@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'IES Agora', // Usually your GitHub org/user name.
+  organizationName: 'cgchamo-creator', // Usually your GitHub org/user name.
   projectName: 'ISO25_26', // Usually your repo name.
   deploymentBranch: 'gh-pages', // Rama oculta que creará Docusaurus para alojar la web
   trailingSlash: false,
